@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>สูตรคูณ</title>
     <style>
-        /* จัดให้อยู่กลางหน้าจอทั้งแนวตั้งและแนวนอน */
         html, body { height: 100%; margin: 0; display: flex; justify-content: center; align-items: center; background: #f4f7f6; font-family: sans-serif; }
         
         .card { max-width: 450px; padding: 25px; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); text-align: center; }
