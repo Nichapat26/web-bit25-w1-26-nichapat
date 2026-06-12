@@ -21,7 +21,7 @@
     <a href="while.php" class="btn">While Loop</a>
 
     <form action="" method="GET">
-        <label>เลขแม่สูตรคูณ:</label>
+        <label for="num">เลขแม่สูตรคูณ:</label>
         <input type="number" name="num" required>
         <input type="submit" value="คำนวณ">
     </form>
